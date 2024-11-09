@@ -65,8 +65,6 @@ Other High-Interest Neighborhoods:
 Neighborhoods such as Riverview, South Delridge, and Georgetown also have relatively high average review counts, indicating they attract significant interest and engagement from visitors.
 
 
-![image.png](attachment:image.png)
-
  Key Insights and Conclusions
 1. **Seasonal Price Trends**: Prices in Seattle tend to peak in the summer months, suggesting high demand in warmer weather.
 2. **Factors Affecting Ratings**: Guests may value factors unrelated to price when leaving high ratings, which could indicate the importance of non-monetary aspects such as cleanliness, location, or service quality in determining review scores.
