@@ -26,7 +26,7 @@ Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - `calendar.csv`: Price availability for each listing across dates.
 
 ## GitHub Repository
-https://github.com/HiiImTrung/DataScientist-Write-A-Blog
+[https://github.com/HiiImTrung/DataScientist-Write-A-Blog](https://github.com/HiiImTrung/DS-Write-a-Blog-Post)
 
 ## Blog Post
 Link to the blog post: https://github.com/HiiImTrung/DS-Write-a-Blog-Post/blob/main/Seattle%20Blog%20Post%20Analysis.md
