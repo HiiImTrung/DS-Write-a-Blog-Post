@@ -37,7 +37,7 @@ Q1: What are the seasonal trends in pricing across Seattle?
 
 Prices in Seattle tend to peak in the summer months, suggesting high demand in warmer weather.
 
-![image.png](attachment:image.png)
+<img width="739" alt="image" src="https://github.com/user-attachments/assets/35820cd5-f801-4432-8130-ba1006c9331c">
 
 Q2: What factors impact a listing's average rating or occupancy?
 
