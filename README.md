@@ -16,7 +16,7 @@ Data was sourced from [Kaggle's Seattle Airbnb dataset](https://www.kaggle.com/d
 ## Key Findings
 - Prices peak in summer, with notable demand in central Seattle neighborhoods.
 - Guests may value factors unrelated to price when leaving high ratings, which could indicate the importance of non-monetary aspects such as cleanliness, location, or service quality in determining review scores.
-- 
+  
 ### Libraries
 Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
