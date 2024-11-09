@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 <h2 id='part1'>Seattle Airbnb Analysis</h2>
 
 
@@ -35,11 +27,13 @@ After exploring the data, we preprocess it to ensure it's ready for analysis. Th
 
 Q1: What are the seasonal trends in pricing across Seattle?
 
-Prices in Seattle tend to peak in the summer months, suggesting high demand in warmer weather.
-
 <img width="739" alt="image" src="https://github.com/user-attachments/assets/35820cd5-f801-4432-8130-ba1006c9331c">
 
+Prices in Seattle tend to peak in the summer months, suggesting high demand in warmer weather.
+
 Q2: What factors impact a listing's average rating or occupancy?
+
+<img width="511" alt="image" src="https://github.com/user-attachments/assets/380888fc-791c-469d-89dc-a306ddb46684">
 
 1. Correlation Heatmap Findings:
 Review Scores vs. Review Count: The correlation between review_scores_value and review_count is -0.037, which is very close to zero. This indicates almost no correlation between the number of reviews a listing has and its review score. In other words, whether a listing has many reviews or few does not appear to impact the review score significantly.
@@ -56,9 +50,9 @@ Sparse Low Scores: There are fewer listings with review scores below 7, and thes
 Summary:
 Overall, these findings suggest that review scores are generally positive and not strongly influenced by either price or the number of reviews. Guests may value factors unrelated to price when leaving high ratings, which could indicate the importance of non-monetary aspects such as cleanliness, location, or service quality in determining review scores.
 
-![image.png](attachment:image.png)
-
 Q3: Are there certain neighborhoods or property types with the highest bookings?
+
+<img width="675" alt="image" src="https://github.com/user-attachments/assets/4b573a91-39e5-4f21-a053-4274b67e09f4">
 
 Top Neighborhoods by Average Reviews:
 
