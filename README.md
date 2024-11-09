@@ -15,8 +15,8 @@ Data was sourced from [Kaggle's Seattle Airbnb dataset](https://www.kaggle.com/d
 
 ## Key Findings
 - Prices peak in summer, with notable demand in central Seattle neighborhoods.
-- Listings with mid-range prices receive higher ratings.
-
+- Guests may value factors unrelated to price when leaving high ratings, which could indicate the importance of non-monetary aspects such as cleanliness, location, or service quality in determining review scores.
+- 
 ### Libraries
 Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
@@ -29,7 +29,7 @@ Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 https://github.com/HiiImTrung/DataScientist-Write-A-Blog
 
 ## Blog Post
-Link to the blog post:
+Link to the blog post: https://github.com/HiiImTrung/DS-Write-a-Blog-Post/blob/main/Seattle%20Blog%20Post%20Analysis.md
 
 ## Usage
-To run the analysis, you can simply open the Jupyter notebook **Seattle_Airbnb_Data_Analysis.ipynb** and execute the cells sequentially. Make sure you have all the required libraries installed in your environment.
+To run the analysis, you can simply open the Jupyter notebook **Seattle Airbnb Analysis Project.ipynb** and execute the cells sequentially. Make sure you have all the required libraries installed in your environment.
